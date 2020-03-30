@@ -1,0 +1,50 @@
+= Donation Requests
+
+Supplies can be received from individuals or organizations using the form located at https://odoo.pltcom.org. The order form is linked to the email at nld@pltcom.org. Outlined below is the process to receive requests for donations.
+// Draft script
+
+== National Logistics Director
+
+1) Log in to Webmail and field donation requests::
+Donation requests come in via email. Open a new tab, and log-in to https://webmail.pltcom.org with your email credentials. Field any new donation requests in your inbox. Gather the details needed to receive the donations, like:
+
+* Pickup Location
+* Pickup date and time
+* What supplies, and in what quantity
+
+Be sure to coordinate pickup location and time with the local logistics coordinators using Odoo's chat function
+
+2) Log in to Odoo::
+Navigate to https://odoo.pltcom.org and click "Log In" in the upper right corner of the screen
+
+3) Open the Purchase module::
+In Odoo, use the dropdown menu on the left side of the screen to open the purchase module (see figure 1).
+
+.Selecting the Sales module
+image::figure1.1.png[]
+
+
+4) Click Create::
+On the purchase module default screen (see figure 2) click the purple "create" button to create a new quote request.
+
+.Purchase Default Screen
+image::figure2.1.png[]
+
+5) Click vendor dropdown, create a new entry::
+On the new quote screen (see figure 3), click the vendor dropdown, then "create and edit" at the bottom. Create a new entry. Fill in the name of the person, pickup address, and any other information needed. Click save to finalize the contact entry.
+
+.New Quote Request
+image::figure2.2.png[]
+
+6) Add products and prepare the delivery receipt::
+On the new quote request screen, under the products tab, add the products and quantity of each product being donated. Then, switch to the "other information" tab and change the option for "deliver to" to the warehouse closest to the delivery address. Finally, click "send by email" to send a quote to the donator.
+
+[TIP]
+====
+If the required products aren't available, see the section on adding new products
+====
+
+
+
+8) Click "Confirm Order" and "Lock" once person confirms::
+Once the donator reviews the quote, and confirms all products and quantities are correct, click "confirm order", then "lock" on the quote screen.

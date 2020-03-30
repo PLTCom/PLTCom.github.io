@@ -1,0 +1,63 @@
+= Supply Requests
+
+
+People and organizations that need supplies can request them through the main website at https://odoo.pltcom.org.
+Follow the process below to process supply requests for distribution.
+
+[IMPORTANT]
+====
+For the time being, distribution of the website should be
+limited, as we do not have the manpower to handle a large volume of requests. When the NLC infrastructure is fully established, we may be able to advertise the site to the general public.
+====
+
+== Local Logistics Director
+
+1) Log in to Odoo::
+Navigate to https://odoo.pltcom.org and click "Log In" in the upper right corner of the screen
+
+2) Open the CRM module and look for new orders::
+Use the dropdown on the left side of the screen to change into the CRM module. The default page is shown. (see figure 1). On the left hand side of the Kanban board is a column titled "New", where new supply requests will automatically populate.
+
+.Login and Default page
+image::figure1.1.png[]
+
+3) Open a new order and contact the supply requester::
+Click the new order (see figure 2). A new page will open showing the order details. Use the contact information in the order to reach out to the supply requester. In your email or phone call to the supply requester, ask for the address of the drop-off location, and provide them with the list of products in stock by generating a stock report:
+. Open the inventory module
+. Click reporting > Inventory Report
+. On the right side of the screen, under the search bar, click the small button button that looks like a grid
+. Download the .xls file by clicking the button with an arrow, to the right of the purple measures button
+. Open the xls file, remove all columns except the product listing, and send the xls file to the supply requester
+
+.New order
+image::figure1.2.png[]
+
+4) Create a new sales order::
+After receiving the supply list from the requester, click the purple "New Quotation". In the popup window, click "Create a New Customer" (if it's a new customer) or attach it to an existing customer. Fill in the drop-off location by clicking the arrow to the right of the Customer dropdown box (Figure 3, labeled "A"), filling in the address section, and clicking save. Then click "Add a product" under the order lines section (Figure 3, labeled "B"). Set the route to the warehouse located closest to the supply requester, and enter the quantity requested. Repeat this process for each item. When finished, click the purple "Save" button. Using the popup, send the supply requester an invoice. Then, click confirm button (next to the purple "Send by Email" button) to create the order at the warehouse.
+
+5) Create an "invoice"::
+To finish the process, create an invoice by clicking the purple "create invoice" button, select the regular invoice option in the popup, and click "create and view invoice". Finally, click "Post" to post the invoice.
+
+[INFO]
+====
+As we don't charge for our products, we don't actually "need" the invoice, but for the sake keeping things need we close it anyway
+====
+
+.Sales order screen.
+image::figure1.3.png[]
+
+== National Logistics Director
+
+By default, all requests are routed to the National Logistics Director's (NLD) CRM dashboard. The NLD is responsible for routing requests to the appropriate local logistics director. The process is outlined below.
+
+1) Log in to Odoo and open the CRM module::
+Navigate to https://odoo.pltcom.org and click "Log In" in the upper right corner of the screen. Use the dropdown on the left side of the screen to change into the CRM module. The default page is shown. (see figure 1).Click on the card under "new" (see figure 4)
+
+.New Order card
+image::figure1.4.png[]
+
+2) Edit the card and change the salesperson::
+After opening the card, click the purple edit button in the top left corner (see figure 5). Click the customer dropdown, then "create and edit" at the bottom of the dropdown. This should display the customer information, and should show the state the customer is located in. Click "discard" at the bottom of the popup (the local logistics coordinator will imput the customer information later). Then, click the "salesperson" dropdown and assign the card to the local logistics coordinator in the matching state. When finished, click the purple "save" button
+
+.Request screen
+image::figure1.5.png[]

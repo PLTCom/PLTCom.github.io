@@ -1,0 +1,10 @@
+
+:includedir: positions
+
+include::{includedir}/NLC.adoc[]
+
+include::{includedir}/national_logistics_director.adoc[]
+
+include::{includedir}/regional_logistics_director.adoc[]
+
+include::{includedir}/local_logistics_director.adoc[]

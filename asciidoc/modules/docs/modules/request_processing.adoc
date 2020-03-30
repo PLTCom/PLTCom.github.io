@@ -1,0 +1,6 @@
+
+:includedir: request_processing
+
+include::{includedir}/donation_request.adoc[]
+
+include::{includedir}/supply_request.adoc[]

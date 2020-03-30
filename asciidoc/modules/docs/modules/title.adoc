@@ -1,0 +1,6 @@
+= PLCOM National Logistics Committee Standard Operating Procedures
+:title page:
+
+image::nlc.jpg[align=center]
+
+<<<

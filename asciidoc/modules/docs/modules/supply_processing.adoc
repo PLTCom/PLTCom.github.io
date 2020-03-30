@@ -1,0 +1,7 @@
+:includedir: supply_processing
+
+include::{includedir}/delivery.adoc[]
+
+include::{includedir}/transfers.adoc[]
+
+include::{includedir}/receiving.adoc[]
