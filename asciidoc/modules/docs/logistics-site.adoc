@@ -1,5 +1,5 @@
 
-= image:resources/img/nlc.jpg[float="left" 200,200] PLTCOM National Logistics Committee Documentation
+= image:docs/resources/img/nlc.jpg[float="left" 200,200] PLTCOM National Logistics Committee Documentation
 :toc: left
 
 :imagesdir: resources/img
