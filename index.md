@@ -1,6 +1,8 @@
 ---
+
 layout: page
-title: "Peoples Liberation and Training Committee"
-...
+title: Peoples Liberation and Training Committee
+
+---
 
 
