@@ -1,0 +1,4 @@
+//Theme
+// include::resources/pltcom-theme.yml[]
+// image directory
+:imagesdir: resources/img

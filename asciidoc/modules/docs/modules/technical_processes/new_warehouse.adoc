@@ -1,0 +1,5 @@
+. Open warehouse an create appopriately named warehouse
+. create routes
+.. Transfer route
+.. Order line route
+. add new warehouse to all products

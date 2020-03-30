@@ -1,0 +1,20 @@
+---
+extends: default
+brand:
+  # Red
+  primary-color: [225, 0, 0]
+  # Yellow
+  secondary-color: [255, 221, 0]
+  # Grey
+  tertiary-color:   [89, 89, 89]
+page:
+  size: letter
+base:
+  font-family: Noto Serif
+heading:
+  font-color: $brand-primary-color
+title-page:
+  logo:
+    image: resources/img/nlc.jpg
+    align: center
+...
