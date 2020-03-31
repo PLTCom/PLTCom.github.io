@@ -1,0 +1,42 @@
+= Contributing to the PLTCOM.org website
+
+== Languages
+
+All files are written in Asciidoc format, then converted to HTML using https://asciidoctor.org[Asciidoctor]. Documentation can be found https://asciidoctor.org/docs/[here.]
+
+== Structure 
+////
+note: need to make NLC folder, asciidoc/modules/docs/nlc
+Also, changing asciidoc/modules to asciidoc/components may make things clearer.
+////
+
+----
+root
+|
+|-asciidoc <---all building block files (not complete pages) in asciidoc format 
+|   |--modules <---  different components of site. Currently divided into pages and docs
+|       |---pages <--- Currently empty, houses traditional webpages
+        |---docs <-- documentation-style pages 
+             |----attributes.adoc <---Compiles modules
+             |----modules <---Components of the docs pages
+             |     |-----positions <--- Documents related to the positions on the NLC
+             |     |-----request_processing
+             |     |-----supply_processing
+             |     |-----technical_processes
+             |     |-----positions.adoc <---master postions document. assembles all documents in positions folder
+             |     |-----request_processing.adoc<---master request processing document. Assembles all documents in request_processing folder
+             |     |-----supply_processing.adoc
+             |----resources <---- component-wide resources like images and CSS
+             |     |-----img <--- where images are stored for the docs component
+
+----
+
+== Workflow
+
+To create a new page, create a new branch off of develop labeled feature/branch-name. Change branch-name to be a short description of whatever is being done (ie, if you're creating a new page make it the page name, cleaning up the repo should be named cleanup, etc). Place your file in the appropritate location (see <<structure,above>>). Don't forget to update the relevant assembly files, section masters, and website master, if applicable. 
+// What should people be building? The page? What they edited? The whole site?
+Use Asciidoctor to build the HTML output of your file, and put that output into the html folder. 
+
+CAUTION: Github will render the pages according to the directory structure of master. Travis will copy the directory structure of HTML. Make sure your files are in the right places in the HTML folder so they render correctly. 
+
+When finished, submit a pull request with your base as develop, and the compare branch as your feature/branch-name branch. Once the PR is approved, Travis will automatically deploy the HTML to master, which will then render it as a page on the site. 
