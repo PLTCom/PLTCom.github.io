@@ -6,19 +6,21 @@ Logistical coordination of goods and people over the extent of the People's Libe
 
 == Structure
 
-Only _full_ members can hold these positions:
+Only _full_ members footnote:[This requirement comes into effect if any nominees for the positions below are full PLTCOM members. Consult the PLTCOM Organization Manual for information on full membership.] can hold these positions:
 
-- **Committee Chair**: A yearly appointed position that is tasked with coordinating national logistics.
-- **Regional Logistics Coordinator(s)**: A yearly appointed position that is tasked with coordinating Regional logistics.
-- **Chapter Logistics Coordinator(s)**: A yearly appointed position that is tasked with being a chapter contact for the Regional Logistics Coordinator and fulfils transfers.
+ * <<_national_logistics_director,*National Logistics Director:*>> A yearly appointed position that is tasked with coordinating national logistics.
+
+ * <<_regional_logistics_director, *Regional Logistics Director:*>> A yearly appointed position that is tasked with coordinating Regional logistics.
+ 
+ * <<_local_logistics_director, *Local Logistics Director:*>> A yearly appointed position that is tasked with being a chapter contact for the Regional Logistics Coordinator and fulfils transfers.
 
 === Chain of Command:
 
-Chapter Logistics Coordinator -> Regional Logistics Coordinator -> Committee Chair
+Local Logistics Director -> Regional Logistics Director -> National Logistics Director
 
 == Meetings
 
-This committee will meet at a minimum of 4 times per month where Regional Logistics Coordinator(s) and the Committee Chair gather to plan and coordinate projects under the purview of this committee.
+This committee will meet at a minimum of 4 times per month where Regional Logistics Directors(s) and the National Logistics Director gather to plan and coordinate projects under the purview of this committee.
 
 == Reports
 
@@ -26,4 +28,4 @@ This committee will submit a report to the Central Committee every other meeting
 
 == Requirements
 
-Everyone on the committee **must** be able to prove comprehension of logistics. Anyone considered for the committee must also be able to demonstrate dependability`
+Everyone on the committee **must** be able to prove comprehension of logistics. Anyone considered for the committee must also be able to demonstrate dependability.
