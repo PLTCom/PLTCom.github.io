@@ -1,0 +1,9 @@
+deploy:
+  provider: pages
+  local_dir: html
+  target_branch: master
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: false
+  on:
+    branch: develop

@@ -1,0 +1,33 @@
+= National Logistics Director
+// Title of leadership position goes here
+
+== Requirements
+// List any requirements for leading the committee or working group
+
+* Full Member of PLTCOM footnote:[This requirement comes into effect if any nomintees for NLD are full PLTCOM members]
+
+* Demonstrated comprehension of Logistics
+
+* Internet Connection
+
+== Duties
+// List the duties of the leadership position
+
+* Facilitate the weekly footnote:[the frequency of meeting can be adjusted at the discretion of the PLTCOM Central Committee, or by petitioning the Central Committee]  meeting of the National Logistics Committee (NLC)
+
+* Submit reports every other meeting detailing: 
+** work hours 
+** meetings held 
+** shipments sent 
+** shipments received 
+** inventory
+** a summary of notable events
+
+* Regularly check the NLD email account
+* Coordinate donation and supply requests from the website, in conjunction with Regional Logistics Coordinators
+* Onboard and train new NLC volunteers, in conjunction with Regional Logistics Coordinators and the Sovinet-sys working group
+
+== Term and Election
+// Describe the process for getting elected or appointed to the position, how long each leader serves and  how many terms the leader can serve
+
+Nominess for National Logistics Director (NLD) may submit applications to the Central Committee during the election period. The Central Committee will interview candidates, deliberate, then appoint the NLD. The NLD serves a 1 year term. There are no term limits. 

@@ -1,0 +1,31 @@
+= National Logistics Committee
+
+== Purpose
+
+Logistical coordination of goods and people over the extent of the People's Liberation Training Committee's operations is the sole purpose and mission of this committee. As this committee is tasked with the transport of sometimes crucially needed items, the Central Committee of the People's Liberation Training Committee shall audit this committee every 6 months with the option of appointing a temporary workgroup to do so in its stead.
+
+== Structure
+
+Only _full_ members footnote:[This requirement comes into effect if any nominees for the positions below are full PLTCOM members. Consult the PLTCOM Organization Manual for information on full membership.] can hold these positions:
+
+ * <<_national_logistics_director,*National Logistics Director:*>> A yearly appointed position that is tasked with coordinating national logistics.
+
+ * <<_regional_logistics_director, *Regional Logistics Director:*>> A yearly appointed position that is tasked with coordinating Regional logistics.
+ 
+ * <<_local_logistics_director, *Local Logistics Director:*>> A yearly appointed position that is tasked with being a chapter contact for the Regional Logistics Coordinator and fulfils transfers.
+
+=== Chain of Command:
+
+Local Logistics Director -> Regional Logistics Director -> National Logistics Director
+
+== Meetings
+
+This committee will meet at a minimum of 4 times per month where Regional Logistics Directors(s) and the National Logistics Director gather to plan and coordinate projects under the purview of this committee.
+
+== Reports
+
+This committee will submit a report to the Central Committee every other meeting detailing: work hours, meetings held, shipments sent, shipments received, inventory, and a summary of notable events.
+
+== Requirements
+
+Everyone on the committee **must** be able to prove comprehension of logistics. Anyone considered for the committee must also be able to demonstrate dependability.
