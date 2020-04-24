@@ -6,7 +6,7 @@
 :toc: left
 
 :data-uri:
-
+== This is a test site generated with AsciiDoctor. To preview the site generated with MkDocs, click https://www.pltcom.org/mkdocs[here]
 Welcome to the website for the People's Liberation and Training Committee! For the moment, this site hosts the documentation for the National Logistics Committee's (NLC) supply distribution platform hosted at https://odoo.pltcom.org. Soon, it will be a portal for all things PLTCOM.
 
 == Position Duties and Requirements
