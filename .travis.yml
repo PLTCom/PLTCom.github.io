@@ -1,3 +1,21 @@
+# Travis plaintext explanation:
+# Step 1, prep environment install OS, language, and asciidoctor
+# Step 2, write HTML files: make script.sh file that outputs the html of the changed page or docs section. If build fails, then quit
+# Step 3, check output: make travis launch firefox (learn more about firefox and travis, 
+#   and browser based testing (https://docs.travis-ci.com/user/gui-and-headless-browsers/#stq=&stp=0)this is confusing)
+#   If fails then quit. (Can you prevent a merge if build is failing?)
+# Step 4: when everything passes, allow merge from develop to master. Only put HTML files into master (how do???)
+
+os:
+  - linux
+dist: 
+  - xenial
+language:
+  - ruby
+before_install:
+  - gem install asciidoctor
+script:
+  - make
 deploy:
   provider: pages
   local_dir: html
