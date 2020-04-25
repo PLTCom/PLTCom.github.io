@@ -1,8 +1,8 @@
 
 = image:nlc.jpg[float="left" 200,200] PLTCOM National Logistics Committee Documentation
-:stylesdir: asciidoc/modules/docs/resources
+:stylesdir: asciidoc/components/docs/resources/
 :stylesheet: readthedocs.css
-:imagesdir: asciidoc/modules/docs/resources/img
+:imagesdir: asciidoc/components/docs/resources/img
 :toc: left
 
 :data-uri:
@@ -15,7 +15,7 @@ Documents in this section outline the duties of various positions in the Nationa
 
 :leveloffset: +2
 
-:includedir: asciidoc/modules/docs/modules
+:includedir: asciidoc/components/docs/NLC/modules
 
 include::{includedir}/positions.adoc[]
 
@@ -29,7 +29,7 @@ Documents in this section outline the processes to receive donation and supply r
 
 :leveloffset: +2
 
-:includedir: asciidoc/modules/docs/modules
+:includedir: asciidoc/components/docs/NLC/modules
 
 include::{includedir}/request_processing.adoc[]
 
@@ -43,7 +43,7 @@ Documents in this section outline the processes to handle deliveries and supplie
 
 :leveloffset: +2
 
-:includedir: asciidoc/modules/docs/modules
+:includedir: asciidoc/components/docs/NLC/modules
 
 include::{includedir}/supply_processing.adoc[]
 
